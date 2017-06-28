@@ -3,5 +3,11 @@ img {
 }
 body {
     text-align: center;
-    font-family: "Arial";
+    font-family: "Times New Roman";
+}
+body {
+    background-color: cyan;
+}
+body {
+    color: hotpink;
 }
