@@ -11,6 +11,9 @@ img{
 .rowthree {
     background-color: #E57587;
 }
-.stuff {
+.heading {
     color: red;
+}
+li {
+    text-align: center
 }
